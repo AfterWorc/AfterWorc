@@ -24,8 +24,6 @@ Tired of submitting 50 proposals to get one response, completing unpaid test ass
 
 ### The Verification & Matching Flow
 
-### The Verification & Matching Flow
-
 ```
 [ Apply at AfterWorc ]
          │
