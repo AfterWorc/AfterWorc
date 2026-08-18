@@ -24,19 +24,23 @@ Tired of submitting 50 proposals to get one response, completing unpaid test ass
 
 ### The Verification & Matching Flow
 
+### The Verification & Matching Flow
+
+```
 [ Apply at AfterWorc ]
-│
-▼
+         │
+         ▼
 [ Technical Profile & Experience Review ]
-│
-▼
+         │
+         ▼
 [ 1-on-1 Technical Evaluation / Live Code Review ]
-│
-▼
+         │
+         ▼
 [ Verified 'c' Status Granted ]
-│
-▼
+         │
+         ▼
 [ Direct Matching with Verified Tech Companies & Startups ]
+```
 
 ---
 
@@ -50,7 +54,18 @@ Tired of submitting 50 proposals to get one response, completing unpaid test ass
   "infra_devops": ["AWS", "GCP", "Kubernetes", "Docker", "Terraform", "CI/CD"],
   "data_ai": ["Data Engineering", "MLOps", "LLM Integration", "PostgreSQL", "ClickHouse"]
 }
-Ready to Work with Verified Clients?
+```
+
+---
+
+### Ready to Work with Verified Clients?
+
 Early onboarding is open for senior engineers, tech leads, and established dev teams.
 
-👉 Apply as a Verified Freelancer → landing.afterworc.com/en/join/freelancer
+👉 **[Apply as a Verified Freelancer → landing.afterworc.com/en/join/freelancer](https://landing.afterworc.com/en/join/freelancer)**
+
+---
+
+<p align="center">
+  <sub>Checked, not guessed. • <a href="[https://afterworc.com](https://afterworc.com)">AfterWorc.com</a></sub>
+</p>
